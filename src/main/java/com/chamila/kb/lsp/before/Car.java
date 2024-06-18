@@ -4,7 +4,9 @@ package com.chamila.kb.lsp.before;
 Objects should be replaceable with their sub types without 
 affecting the correctness of the program*/
 
-public abstract class Car {
+public class Car {
 
-	public abstract int getCabinWidth();
+	public  int getCabinWidth() {
+		return 5;
+	}
 }
