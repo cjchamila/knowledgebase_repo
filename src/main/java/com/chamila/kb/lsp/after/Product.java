@@ -32,7 +32,9 @@ public class Product {
 		return discount;
 	}
 	
-	
+	public double getProductPrice() {
+		return this.productPrice;
+	}
 	
 
 }
