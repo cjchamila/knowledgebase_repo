@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -33,3 +34,8 @@ replay_pid*
 # IntelliJ IDEA project files
 /.idea/
 /*.iml
+=======
+.classpath
+.settings/
+.project
+>>>>>>> revamp_new
