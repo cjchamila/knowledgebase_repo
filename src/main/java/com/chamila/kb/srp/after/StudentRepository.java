@@ -1,4 +1,4 @@
-package com.chamila.kb.srp;
+package com.chamila.kb.srp.after;
 
 public interface StudentRepository {
 
