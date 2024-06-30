@@ -1,3 +1,4 @@
+
 package com.chamila.kb.lsp.after;
 
 public class Product {
@@ -35,6 +36,7 @@ public class Product {
 	public double getProductPrice() {
 		return this.productPrice;
 	}
+
 	
 
 }
