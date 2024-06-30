@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -38,4 +37,7 @@ replay_pid*
 .classpath
 .settings/
 .project
->>>>>>> revamp_new
+
+# Sub module target folders
+solid-principles/target/
+
